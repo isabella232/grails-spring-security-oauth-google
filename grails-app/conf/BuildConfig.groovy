@@ -17,6 +17,7 @@ grails.project.dependency.resolution = {
         mavenRepo 'https://raw.github.com/fernandezpablo85/scribe-java/mvn-repo'
     }
     dependencies {
+        compile 'net.sf.ehcache:ehcache-core:2.4.8'
     }
 
     plugins {

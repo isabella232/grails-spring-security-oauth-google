@@ -23,7 +23,7 @@ import grails.util.Environment
  */
 class SpringSecurityOauthGoogleGrailsPlugin {
 
-    def version = '0.3.1'
+    def version = '0.3.2'
     def grailsVersion = '2.0 > *'
     
     def loadAfter = ['springSecurityOauth']
